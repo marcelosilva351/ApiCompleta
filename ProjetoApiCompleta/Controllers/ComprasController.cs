@@ -5,7 +5,10 @@ using System.Threading.Tasks;
 
 namespace ApiPires.Controllers
 {
-    public class ComprasController
+    [Authorize(Role="Gerente)]
+    [ApiController]
+    [Route("api/compras)]
+    public class ComprasController : ControllerBase
     {
     }
 }

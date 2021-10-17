@@ -10,8 +10,8 @@ EntityFrameworkCore
 Identity
 JwtBearer
 
-# Relacionamento
-compra n x n produto
-compra n x 1 cliente
-produto n x 1 fornecedor
+# Relacionamentos
+<p>compra n x n produto</p>
+<p>compra n x 1 cliente</p>
+<p>produto n x 1 fornecedor</p>
 

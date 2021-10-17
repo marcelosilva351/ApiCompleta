@@ -1,0 +1,9 @@
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\obj\Debug\netcoreapp3.1\Business.pdb
+C:\Users\marce\Desktop\EstudosOFC\PIres\ApiPires\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache

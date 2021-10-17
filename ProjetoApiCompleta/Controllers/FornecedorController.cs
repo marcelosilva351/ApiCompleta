@@ -12,6 +12,7 @@ using Data.DTO_S.EnderecoDTO;
 
 namespace ApiPires.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("api/fornecedore")]
     public class FornecedorController : ControllerBase

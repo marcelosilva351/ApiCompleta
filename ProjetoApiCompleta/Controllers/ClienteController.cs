@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace ApiPires.Controllers
 {
+    [Authorize(Role="Gerente)]
     [ApiController]
     [Route("api/clientes")]
     public class ClienteController : ControllerBase
